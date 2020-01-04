@@ -1,12 +1,11 @@
 title: Prakhar Maheshwari # your name (or website title) here
 logo: "Myself.jpg?raw=true" # your photo (or logo) here Myself.jpg
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Mobile Application Developer
+Mobile Application Developer
   <br><br>
-Skilled in iOS and Android Development and a strong software engineering professional with a Master of Science - MS focused in Computer Science and Engineering from Santa Clara University.
-
+  Skilled in iOS and Android Development and a strong software engineering professional with a Master of Science - MS focused in Computer Science and Engineering from Santa Clara University.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/mprakhar/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
